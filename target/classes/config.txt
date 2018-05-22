@@ -1,4 +1,0 @@
-username : emailcomeshere@gmail.com
-password : password
-Searcher :saideep.chennupati97@gmail.com
-Subject  :SUBJECT COMES HERE
